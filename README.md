@@ -1,6 +1,6 @@
 # spellcheckhelpers
 
-To spell check doc files recommend this process.  You will need `npx` and cspell installed.
+To spell check doc files recommend this process.  You will need `npx` and [cspell](https://www.npmjs.com/package/cspell) installed.
 
 
 ```bash
