@@ -6,6 +6,11 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
+"etcdctl",
+"plugindata",
+"Println",
+"Sprintf",
+"watcherjob",
 "pseudoversion",
 "allowedlogins",
 "attrname",
